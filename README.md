@@ -1,11 +1,10 @@
 # InkscapeCircuitSymbols
+
  Circuit symbols for drawing schematics and block diagrams with Inkscape
- 
-Other versions: [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset) · [Adobe Illustrator](https://github.com/keikawa/illustrator-circuit-symbols)
 
 ## Example
 
-![opamp](https://user-images.githubusercontent.com/37934321/75359271-8634e000-58f7-11ea-9ee9-f799a6786db7.png "opamp")
+<img src="./figures/example.png" title="" alt="" data-align="center" />
 
 ## Requirement
 
@@ -13,21 +12,15 @@ Other versions: [Affinity Designer](https://github.com/keikawa/affinity-circuit-
 
 ## Usage
 
-1. Download and open symbol.svg.
+1. Download and open electrical_symbol.svg.
 
-2. Copy and paste symbols to your schematic.
+2. Copy and paste the file to the `~/.config/inkscape/symbols`. (Linux)
 
-## Recommended settings
-
-- File -> Document Properties -> Grid -> Spacing X = 1.0 px
-- File -> Document Properties -> Grid -> Spacing Y = 1.0 px
-- File -> Document Properties -> Grid -> Frequency of the major lines = 5 px
-- File -> Document Properties -> Snap -> Snap to grids = Always snap
+3. Every dilemma you met can be solved with ChatGPT.
 
 ## Contribution
 
-We look forward to your pull request!  
-Should you have any questions about fixes or improvements, please feel free to open an issue.
+Thanks for the source file of https://github.com/keikawa/InkscapeCircuitSymbols.git, this work is mostly based on his/her work, because my instructor needs me to do in a form he specified.
 
 ## Licence
 
